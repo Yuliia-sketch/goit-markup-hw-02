@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background: #fff;
 }
@@ -40,7 +40,7 @@ a{
 .contacts{
     font-style:normal;
 }
-.hero{
+.page-hero{
     background: #2e2f42;
 }
 .hero-title{
@@ -52,7 +52,25 @@ a{
     color: #fff;
 }
 .hero-button{
-
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.feature-title1,.feature-title2,.feature-title3,.feature-title4{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.paragraf-feature{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 .page-footer{
     background: #2e2f42;
