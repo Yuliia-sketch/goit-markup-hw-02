@@ -63,7 +63,7 @@ a{
 .hero-button:hover,.hero-button:focus{
     color: #404bbf
 }
-.feature-title{
+.feature-title,.team-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -89,16 +89,8 @@ a{
     color: #2e2f42;
     text-transform: capitalize;
 }
-.team-list{
+.team-items{
     background: #fff;
-}
-.team-title{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
 }
 .paragraph-team{
     font-weight: 400;
