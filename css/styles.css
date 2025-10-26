@@ -63,6 +63,7 @@ a{
 }
 .hero-button{
     background: #4d5ae5;
+    cursor: pointer;
 }
 .feature-title{
     font-weight: 500;
