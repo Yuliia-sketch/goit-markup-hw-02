@@ -63,7 +63,7 @@ a{
 .hero-button:hover,.hero-button:focus{
     color: #404bbf
 }
-.feature-title,.team-title{
+.feature-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -91,6 +91,14 @@ a{
 }
 .team-items{
     background: #fff;
+
+}
+.team-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .paragraph-team{
     font-size: 16px;
